@@ -1,2 +1,4 @@
 /OW_INSTALL.log
 /*.~sql
+/src_query.sql
+/help stuff.sql
